@@ -356,7 +356,7 @@ RCT_EXPORT_METHOD(openPicker:(NSDictionary *)options
                 }
             }
             
-            [imagePickerController setModalPresentationStyle: UIModalPresentationFullScreen];
+            [imagePickerController setModalPresentationStyle: UIModalPresentationPageSheet];
             [[self getRootVC] presentViewController:imagePickerController animated:YES completion:nil];
         });
     }];
