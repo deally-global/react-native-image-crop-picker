@@ -104,7 +104,7 @@
                                 <action selector="cancel:" destination="QL5-wR-LYt" id="l9K-7e-2qt"/>
                             </connections>
                         </barButtonItem>
-                        <barButtonItem key="rightBarButtonItem" systemItem="done" id="laG-jk-Ma2">
+                        <barButtonItem key="rightBarButtonItem" title="Готово" id="laG-jk-Ma2">
                             <connections>
                                 <action selector="done:" destination="QL5-wR-LYt" id="Try-7j-DzS"/>
                             </connections>
@@ -254,7 +254,7 @@
                         </connections>
                     </collectionView>
                     <navigationItem key="navigationItem" title="Album Title" id="wKf-eb-U1x">
-                        <barButtonItem key="rightBarButtonItem" systemItem="done" id="nai-ZV-lR8">
+                        <barButtonItem key="rightBarButtonItem" title="Готово" id="nai-ZV-lR8">
                             <connections>
                                 <action selector="done:" destination="QiH-NZ-ZGN" id="RYV-Ik-8ry"/>
                             </connections>

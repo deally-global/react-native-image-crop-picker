@@ -8,14 +8,14 @@
 
 "albums.title" = "Фото";
 
-"assets.footer.photo" = "%ld Фото";
-"assets.footer.photos" = "%ld Фото";
-"assets.footer.video" = "%ld Видео";
-"assets.footer.videos" = "%ld Видео";
-"assets.footer.photo-and-video" = "%ld Фото, %ld Видео";
-"assets.footer.photos-and-video" = "%ld Фото, %ld Видео";
-"assets.footer.photo-and-videos" = "%ld Фото, %ld Видео";
-"assets.footer.photos-and-videos" = "%ld Фото, %ld Видео";
+"assets.footer.photo" = "%ld фото";
+"assets.footer.photos" = "%ld фото";
+"assets.footer.video" = "%ld видео";
+"assets.footer.videos" = "%ld видео";
+"assets.footer.photo-and-video" = "%ld фото, %ld видео";
+"assets.footer.photos-and-video" = "%ld фото, %ld видео";
+"assets.footer.photo-and-videos" = "%ld фото, %ld видео";
+"assets.footer.photos-and-videos" = "%ld фото, %ld видео";
 
-"assets.toolbar.item-selected" = "%ld Объект выбран";
-"assets.toolbar.items-selected" = "%ld Объектов выбрано";
+"assets.toolbar.item-selected" = "%ld объект выбран";
+"assets.toolbar.items-selected" = "%ld объектов выбрано";
